@@ -228,11 +228,6 @@
             </example>
             </summary>
         </member>
-        <member name="M:Shared.IMGUIUtils.DrawTransparentBox(UnityEngine.Rect)">
-            <summary>
-            Draw a gray semi-transparent GUI.Box at the specified rect.
-            </summary>
-        </member>
         <member name="M:Shared.IMGUIUtils.EatInputInRect(UnityEngine.Rect)">
             <summary>
             Block input from going through to the game/canvases if the mouse cursor is within the specified Rect.
